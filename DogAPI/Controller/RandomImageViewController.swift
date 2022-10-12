@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class RandomImageViewController: UIViewController {
 
     @IBOutlet weak var imageView: UIImageView!
     
