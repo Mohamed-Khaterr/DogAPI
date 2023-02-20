@@ -1,2 +1,2 @@
 # DogAPI
-Fetching Random Images from [https://dog.ceo/dog-api/]
+Fetching Random Images from [Dog API](https://dog.ceo/dog-api/)
